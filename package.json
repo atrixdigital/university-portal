@@ -1,0 +1,24 @@
+{
+  "name": "university-portal",
+  "version": "1.0.0",
+  "description": "university portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atrixdigital/university-portal.git"
+  },
+  "keywords": [
+    "unviversity",
+    "portal",
+    "foundation."
+  ],
+  "author": "atrixdigital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atrixdigital/university-portal/issues"
+  },
+  "homepage": "https://github.com/atrixdigital/university-portal#readme"
+}
